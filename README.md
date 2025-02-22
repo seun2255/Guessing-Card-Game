@@ -21,7 +21,7 @@ React, Tailwind, GSAP
 
 ### Links
 
-- Live Site URL: [guessing card game]()
+- Live Site URL: [guessing card game](https://guessing-card-game.vercel.app/)
 
 ### Built with
 
